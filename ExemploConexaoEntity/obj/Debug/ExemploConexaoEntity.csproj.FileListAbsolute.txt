@@ -1,0 +1,11 @@
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemploConexaoEntity\ExemploConexaoEntity\bin\Debug\ExemploConexaoEntity.exe.config
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemploConexaoEntity\ExemploConexaoEntity\bin\Debug\ExemploConexaoEntity.exe
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemploConexaoEntity\ExemploConexaoEntity\bin\Debug\ExemploConexaoEntity.pdb
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemploConexaoEntity\ExemploConexaoEntity\bin\Debug\EntityFramework.dll
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemploConexaoEntity\ExemploConexaoEntity\bin\Debug\EntityFramework.xml
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemploConexaoEntity\ExemploConexaoEntity\obj\Debug\ExemploConexaoEntity.csprojResolveAssemblyReference.cache
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemploConexaoEntity\ExemploConexaoEntity\obj\Debug\ExemploConexaoEntity.exe
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemploConexaoEntity\ExemploConexaoEntity\obj\Debug\ExemploConexaoEntity.pdb
+C:\Users\Atitude\Desktop\Entity Framework\Demonstrações\ExemploConexaoEntity\ExemploConexaoEntity\bin\Debug\ExemploConexaoEntity.exe.config
+C:\Users\Atitude\Desktop\Entity Framework\Demonstrações\ExemploConexaoEntity\ExemploConexaoEntity\obj\Debug\ExemploConexaoEntity.exe
+C:\Users\Atitude\Desktop\Entity Framework\Demonstrações\ExemploConexaoEntity\ExemploConexaoEntity\obj\Debug\ExemploConexaoEntity.pdb
